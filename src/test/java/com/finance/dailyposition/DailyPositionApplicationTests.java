@@ -1,4 +1,4 @@
-package com.finance.daily_position;
+package com.finance.dailyposition;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

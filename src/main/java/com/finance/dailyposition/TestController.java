@@ -1,4 +1,4 @@
-package com.finance.daily_position;
+package com.finance.dailyposition;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

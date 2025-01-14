@@ -1,4 +1,4 @@
-package com.finance.daily_position;
+package com.finance.dailyposition;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
